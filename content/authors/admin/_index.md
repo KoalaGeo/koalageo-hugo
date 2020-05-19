@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Edward Lewis
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Geologist (Standards Lead)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: British Geological Survey   
+  url: "www.bgs.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Geology, Resource Strategy & Policy, Data Standards and FOSS.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geology
+- Resource Strategy & Policy
+- Data Standards
+- Geosemantics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Post-Graduate Certificate in Geostatistics
+    institution: ECU
+    year: 2015
+  - course: MGeol in Applied Geology
+    institution: University of Leicester
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +42,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "edlew@bgs.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/KoalaGeo
+- icon:  wikipedia-w
+  icon_pack: fab
+  link: https://en.wikipedia.org/wiki/User:Koalageo
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Edward_Lewis19
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=-B7HivYAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2685-383X
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/KoalaGeo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! I’m Edd Lewis and I love Geology, Resource Strategy & Policy, Data Standards and FOSS!
