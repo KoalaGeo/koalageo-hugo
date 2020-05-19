@@ -18,27 +18,68 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Standards Lead"
+  company = "British Geological Survey"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Keyworth, UK"
+  date_start = "2018-10-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Facilitating greater use in data standards, internally and externally to better align with FAIR and Open Data best practice. 
+  * Guidence on strategy to align with standards
+  * Capacity Building with partner organisations. 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Xplore Product Manager"
+  company = "International Geoscience Services Ltd"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Keyworth, UK"
+  date_start = "2016-10-01"
+  date_end = "2018-09-31"
+  description = """
+  Key responsibilities: 
+  
+  * Technical Product Management of the Xplore product.
+  * Prospectivity analysis of areas in South Africa, Iran, Ireland, Western Australia and the UK. 
+  * Setup and managed online marketing campaigns, website redesign and implementation.   
+  * Market Analysis for potential new services (Open Geodata Initiatives)
+  * Corporate due diligence of current operations
 
+  """
+
+[[experience]]
+  title = "Senior Geologist (3D Modelling)"
+  company = "Geological Survey Ireland"
+  company_url = ""
+  location = "Dublin, Ireland"
+  date_start = "2016-03-01"
+  date_end = "2016-09-31"
+  description = """
+  Projects: 
+  
+  * Co. Cork 3D geological modelling integrating surface geology, seismic and well data using GoCAD.
+  * Lough Allen Basin 3D geological modelling integrating surface geology, seismic and well data using GoCAD.
+  
+  """
+
+[[experience]]
+  title = "Consultant (Geology)"
+  company = "SRK Consulting Ltd"
+  company_url = ""
+  location = "Brisbane, Australia"
+  date_start = "2012-10-01"
+  date_end = "2016-02-31"
+  description = """
+  Responsibilities:
+  
+  * DD
+  * Resource estimation, 
+  * Petroleum exploration, 
+  * Mineral exploration, 
+  * Coal exploration
+
+  """
 +++
