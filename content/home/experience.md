@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "International Geoscience Services Ltd"
   company_url = ""
   location = "Keyworth, UK"
-  date_start = ""
-  date_end = ""
+ # date_start = ""
+ # date_end = ""
   description = """
   Key responsibilities: 
   
@@ -54,8 +54,8 @@ date_format = "Jan 2006"
   company = "Geological Survey Ireland"
   company_url = ""
   location = "Dublin, Ireland"
-  date_start = ""
-  date_end = ""
+ # date_start = ""
+ # date_end = ""
   description = """
   Projects: 
   
@@ -68,8 +68,8 @@ date_format = "Jan 2006"
   company = "SRK Consulting Ltd"
   company_url = ""
   location = "Brisbane, Australia"
-  date_start = ""
-  date_end = ""
+ # date_start = ""
+ # date_end = ""
   description = """
   Responsibilities:
   
