@@ -47,7 +47,6 @@ date_format = "Jan 2006"
   * Setup and managed online marketing campaigns, website redesign and implementation.   
   * Market Analysis for potential new services (Open Geodata Initiatives)
   * Corporate due diligence of current operations
-
   """
 
 [[experience]]
@@ -62,7 +61,6 @@ date_format = "Jan 2006"
   
   * Co. Cork 3D geological modelling integrating surface geology, seismic and well data using GoCAD.
   * Lough Allen Basin 3D geological modelling integrating surface geology, seismic and well data using GoCAD.
-  
   """
 
 [[experience]]
@@ -80,6 +78,5 @@ date_format = "Jan 2006"
   * Petroleum exploration, 
   * Mineral exploration, 
   * Coal exploration
-
   """
 +++
