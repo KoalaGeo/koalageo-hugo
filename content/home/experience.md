@@ -33,21 +33,48 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
+  title = "Product Manager/Minerals Geologist"
   company = "IGS"
   company_url = ""
-  location = "California"
+  location = "Keyworth, UK"
   date_start = "2016-10-01"
   date_end = "2018-10-30"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
-  title = "Professor"
+  title = "Senior Geologist (3D Modelling)"
   company = "GSI"
   company_url = ""
-  location = "California"
+  location = "Dublin, Ireland"
   date_start = "2016-03-01"
   date_end = "2016-10-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Consultant (Geology)"
+  company = "SRK"
+  company_url = ""
+  location = "Brisbane, Australia"
+  date_start = "2012-10-01"
+  date_end = "2016-03-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Project Geologist"
+  company = "Self-Employed"
+  company_url = ""
+  location = "World"
+  date_start = "2009-08-01"
+  date_end = "2012-10-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+[[experience]]
+  title = "Graduate Geologist"
+  company = "Rio Tinto Exploration"
+  company_url = ""
+  location = "London, UK"
+  date_start = "2008-06-01"
+  date_end = "2009-08-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
