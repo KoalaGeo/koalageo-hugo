@@ -90,7 +90,7 @@ address = {street = "Nicker Hill", city = "Keyworth", region = "Leicestershire",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.7715241", longitude = "-1.3272674"}
+coordinates = {latitude = "52.8790494", longitude = "-1.0780951"}
 
 # Directions for visitors to locate you.
 directions = "WSB"
