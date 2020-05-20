@@ -34,70 +34,20 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Professor"
-  company = "University X"
+  company = "IGS"
   company_url = ""
   location = "California"
   date_start = "2016-10-01"
-  date_end = "2018-09-30"
+  date_end = "2018-10-30"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Professor"
+  company = "GSI"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  date_start = "2016-03-01"
+  date_end = "2016-10-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 +++
