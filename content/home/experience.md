@@ -18,65 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Standards Lead"
-  company = "British Geological Survey"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "Keyworth, UK"
-  date_start = "Oct 18"
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Facilitating greater use in data standards, internally and externally to better align with FAIR and Open Data best practice. 
-  * Guidence on strategy to align with standards
-  * Capacity Building with partner organisations. 
+
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Xplore Product Manager"
-  company = "International Geoscience Services Ltd"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = "Keyworth, UK"
-  date_start = "Jan 06"
-  date_end = "Jan 06"
-  description = """
-  Key responsibilities: 
-  
-  * Technical Product Management of the Xplore product.
-  * Prospectivity analysis of areas in South Africa, Iran, Ireland, Western Australia and the UK. 
-  * Setup and managed online marketing campaigns, website redesign and implementation.   
-  * Market Analysis for potential new services (Open Geodata Initiatives)
-  * Corporate due diligence of current operations
-  """
-
-[[experience]]
-  title = "Senior Geologist (3D Modelling)"
-  company = "Geological Survey Ireland"
-  company_url = ""
-  location = "Dublin, Ireland"
-  date_start = "Jan 06"
-  date_end = "Jan 06"
-  description = """
-  Projects: 
-  
-  * Co. Cork 3D geological modelling integrating surface geology, seismic and well data using GoCAD.
-  * Lough Allen Basin 3D geological modelling integrating surface geology, seismic and well data using GoCAD.
-  """
-
-[[experience]]
-  title = "Consultant (Geology)"
-  company = "SRK Consulting Ltd"
-  company_url = ""
-  location = "Brisbane, Australia"
-  date_start = "Jan 06"
-  date_end = "Jan 06"
-  description = """
-  Responsibilities:
-  
-  * DD
-  * Resource estimation, 
-  * Petroleum exploration, 
-  * Mineral exploration, 
-  * Coal exploration
-  """
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 +++
