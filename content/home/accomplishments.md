@@ -27,15 +27,17 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-05-05"
   description = """
-    Threat Risk Assessment and Mitigation
-    First Aid Training
-    Kidnap and Hostage
-    Vehicle Safety and Security
-    Landmine and IED’s
-    Weapon Familiarisation
-    Navigation Techniques
-    Radio and Voice Communications
-    Conflict Management
+  Course contents: 
+  
+  * Threat Risk Assessment and Mitigation
+  * First Aid Training
+  * Kidnap and Hostage
+  * Vehicle Safety and Security
+  * Landmine and IED’s
+  * Weapon Familiarisation
+  * Navigation Techniques
+  * Radio and Voice Communications
+  * Conflict Management
 """
 
 [[item]]
@@ -46,17 +48,20 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-02-24"
   date_end = "2020-02-25"
-  description = "Advanced first aid for feildworkers"
+  description = """
+  Experienced expedition first aid instructors use practical, hands-on training to provide emphasis on being self-reliant, improvisation with the kit that you have, and dealing competently with both life-threatening and run-of-the-mill situations in locations where evacuation may be protracted. This remote medical course, as the name suggests, is focused on the needs of those who work or travel away from help where they feel the core skills gained in outdoor first aid or workplace based courses will be insufficient for the situation they are in.  
+  """
   
 [[item]]
   organization = "Wilson Sherriff"
   organization_url = "https://wilsonsherriff.com/"
   title = "Strategic Leadership"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2019-01-29"
   date_end = "2019-01-30"
-  description = """At the end of the workshop participants will –
+  description = """
+  Course content: 
   
   -	Understand the key elements and concepts around strategy and leadership
   -	Have tested approaches to strategy and leadership as they apply to relevant examples in BGS
