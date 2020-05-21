@@ -19,33 +19,48 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "Hostile Environment Training"
+  organization_url = "https://hostile-environment.co.uk"
+  title = "Hostile Environment Awareness Training (HEAT)"
+  url = "https://hostile-environment.co.uk/courses/heat"
+  certificate_url = ""
+  date_start = "2019-05-01"
+  date_end = "2019-05-05"
+  description = """
+    Threat Risk Assessment and Mitigation
+    First Aid Training
+    Kidnap and Hostage
+    Vehicle Safety and Security
+    Landmine and IED’s
+    Weapon Familiarisation
+    Navigation Techniques
+    Radio and Voice Communications
+    Conflict Management
+"""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Training Expertise"
+  organization_url = "https://www.training-expertise.co.uk"
+  title = "Expedition First Aid"
+  url = "https://www.training-expertise.co.uk/courses/first-aid/expedition-and-wilderness-first-aid/expedition-first-aid-level-4/"
+  certificate_url = ""
+  date_start = "2020-02-24"
+  date_end = "2020-02-25"
+  description = "Advanced first aid for feildworkers"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Wilson Sherriff"
+  organization_url = "https://wilsonsherriff.com/"
+  title = "Strategic Leadership"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2019-01-29"
+  date_end = "2019-01-30"
+  description = """At the end of the workshop participants will –
+  
+  -	Understand the key elements and concepts around strategy and leadership
+  -	Have tested approaches to strategy and leadership as they apply to relevant examples in BGS
+  -	Have identified actions to take forward for further individual development
+"""
 
 +++
