@@ -67,14 +67,47 @@ date_format = "Jan 2006"
   date_start = "2009-08-01"
   date_end = "2012-10-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
-  
+
+[[experience]]
+  title = "Geosteering Geologist"
+  company = "Geosteering LLC"
+  company_url = ""
+  location = "UK"
+  date_start = "2010-06-02"
+  date_end = "2011-02-01"
+  description = """Remote supervision and steering of horizontal gas and oil well drilling in the USA."""
+
+[[experience]]
+  title = "Exploration Geologist"
+  company = "Citadel Resources"
+  company_url = ""
+  location = "Saudi Arabia"
+  date_start = "2010-01-01"
+  date_end = "2010-06-01"
+  description = """Gold and base metal grassroots exploration in Arabian-Nubian shield of Saudi Arabia."""
+
+[[experience]]
+  title = "Exploration Geologist"
+  company = "Stratex International"
+  company_url = ""
+  location = "Ethiopia"
+  date_start = "2009-08-01"
+  date_end = "2009-12-30"
+  description = """Gold and base metal grassroots exploration in Arabian-Nubian shield of Ethiopia."""
+
 [[experience]]
   title = "Graduate Geologist"
   company = "Rio Tinto Exploration"
   company_url = ""
-  location = "London, UK"
+  location = "London, UK, Kazakhstan & Jordan"
   date_start = "2008-06-01"
   date_end = "2009-08-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  Projects: 
+  
+  * Gold and Copper exploration Kazakhstan
+  * Uranium exploration in Jordan 
+  * Copper – Gold Porphyry and Uranium exploration in Central Kazakhstan and Jordan.
+  """
 
 +++
