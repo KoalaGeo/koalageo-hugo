@@ -9,8 +9,8 @@ date: "2020-05-21T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
+image: "http://geonetwork-opensource.org/"
+  caption: 
   focal_point: Smart
 
 links:
