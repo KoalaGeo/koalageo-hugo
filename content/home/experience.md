@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Standards Lead"
-  company = "BGS"
-  company_url = ""
+  company = "British Geological Survey"
+  company_url = "https://www.bgs.ac.uk/"
   location = "Keyworth, UK"
   date_start = "2018-10-01"
   date_end = ""
@@ -33,8 +33,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Product Manager/Minerals Geologist"
-  company = "IGS"
-  company_url = ""
+  company = "International Geoscience Services Ltd"
+  company_url = "https://www.igsint.com/"
   location = "Keyworth, UK"
   date_start = "2016-10-01"
   date_end = "2018-10-30"
@@ -50,8 +50,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior Geologist (3D Modelling)"
-  company = "GSI"
-  company_url = ""
+  company = "Geological Survey Ireland"
+  company_url = "https://www.gsi.ie/"
   location = "Dublin, Ireland"
   date_start = "2016-03-01"
   date_end = "2016-10-01"
@@ -59,8 +59,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Consultant (Geology)"
-  company = "SRK"
-  company_url = ""
+  company = "SRK Consulting Ltd"
+  company_url = "https://www.srk.com/en"
   location = "Brisbane, Australia"
   date_start = "2012-10-01"
   date_end = "2016-03-01"
@@ -130,7 +130,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Exploration Geologist"
-  company = "Stratex International"
+  company = "Stratex International Ltd"
   company_url = "https://orioleresources.com/"
   location = "Ethiopia"
   date_start = "2009-08-01"
