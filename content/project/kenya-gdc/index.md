@@ -7,11 +7,11 @@ tags:
 date: "2020-05-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
-image: "https://www.osgeo.org/wp-content/uploads/GeoNetwork-1_740x412_acf_cropped-370x206.png"
-  caption: 
-  focal_point: Smart
+# image: "https://www.osgeo.org/wp-content/uploads/GeoNetwork-1_740x412_acf_cropped-370x206.png"
+#  caption: 
+#  focal_point: Smart
 
 links:
 - icon: twitter
