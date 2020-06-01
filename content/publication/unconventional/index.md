@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Unconventional Gas Reservoir Productivity in Australian Proterozoic Rocks — Studies From the McArthur, Beetaloo, Mount Isa and Amadeus"
-authors: []
+authors: ["Bruce A. McConachie, Peter Stanmore, Lucas McLean-Hodgson, Anargul Kushkarina, and Edward Lewis"]
 date: 2015-12-28T20:37:56+01:00
 doi: "10.1190/ice2015-2159072"
 
