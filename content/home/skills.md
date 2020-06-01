@@ -18,43 +18,43 @@ subtitle = ""
   icon = "docker"
   icon_pack = "fab"
   name = "Docker"
-  description = "50%"
+  description = "Skilled"
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "50%"
+  description = "Skilled"
   
 [[feature]]
   icon = "raspberry-pi"
   icon_pack = "fab"
   name = "Pi"
-  description = "50%"
+  description = "Beginner"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Experienced"  
   
 [[feature]]
   icon = "file-code"
   icon_pack = "fas"
   name = "Data Standards"
-  description = "100%"
+  description = "Experienced"
   
 [[feature]]
   icon = "gem"
   icon_pack = "fas"
   name = "Mineral Exploration"
-  description = "100%"
+  description = "Experienced"
   
 [[feature]]
   icon = "globe-asia"
   icon_pack = "fas"
   name = "GIS"
-  description = "100%"
+  description = "Experienced"
 
 # Uncomment to use emoji icons.
 # [[feature]]
