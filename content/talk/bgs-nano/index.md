@@ -6,11 +6,11 @@ event: BGS Nano Presentation
 event_url:
 location: BGS
 address: BGS
-  street: Nicker Hill
-  city: Keyworth
+  street: 
+  city: 
   region:
-  postcode: NG12 5GG
-  country: UK
+  postcode: 
+  country: 
 summary: Current state of geospatial standards and the BGS
 abstract:
 
