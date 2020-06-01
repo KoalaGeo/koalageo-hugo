@@ -2,15 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "BGS & Standards"
-event: "BGS Nano Presentationa"
+event: "BGS Nano Presentation"
 event_url:
-location: BGS
-address: BGS
-  street: Nicker Hill
-  city: Keyworth
+location: "BGS"
+address: "BGS"
+  street: "Nicker Hill"
+  city: "Keyworth"
   region:
-  postcode: NG12 5GG
-  country: UK
+  postcode: "NG12 5GG"
+  country: "UK"
 summary: "Current state of geospatial standards and the BGS"
 abstract:
 
