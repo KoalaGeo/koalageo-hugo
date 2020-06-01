@@ -6,11 +6,11 @@ event: BGS Nano Presentation
 event_url:
 location: BGS
 address: BGS
-  street: 
-  city: 
-  region:
-  postcode: 
-  country: 
+#  street: 
+#  city: 
+#  region:
+#  postcode: 
+#  country: 
 summary: Current state of geospatial standards and the BGS
 abstract:
 
