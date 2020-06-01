@@ -1,17 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "BGS & Standards"
-event: "BGS Nano Presentation"
+title: BGS & Standards
+event: BGS Nano Presentation
 event_url:
-location: "BGS"
-address: "BGS"
-  street: "Nicker Hill"
-  city: "Keyworth"
+location: BGS
+address: BGS
+  street: Nicker Hill
+  city: Keyworth
   region:
-  postcode: "NG12 5GG"
-  country: "UK"
-summary: "Current state of geospatial standards and the BGS"
+  postcode: NG12 5GG
+  country: UK
+summary: Current state of geospatial standards and the BGS
 abstract:
 
 # Talk start and end times.
@@ -66,3 +66,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+[Slides](https://koalageo.github.io/presentations/BGS_Nano/)
