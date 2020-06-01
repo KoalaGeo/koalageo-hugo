@@ -75,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<iframe src='http://koalageo.xyz/QGIS-Leaflet-Maps/myprojects/' height='650' width='100%' frameborder='0'></iframe>
+<iframe src='https://koalageo.github.io/QGIS-Leaflet-Maps/myprojects/#3/21.49/54.00' height='650' width='100%' frameborder='0'></iframe>
