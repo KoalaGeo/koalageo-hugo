@@ -42,8 +42,6 @@ slides: ""
 Summary Experience
 ===================
 
-<iframe src='https://koalageo.github.io/QGIS-Leaflet-Maps/myprojects/#3/21.49/54.00' height='650' width='100%' frameborder='0'></iframe>
-
 Key Experience: Exploration
 ===========================
 
