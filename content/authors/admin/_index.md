@@ -18,12 +18,15 @@ organizations:
   url: "www.bgs.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Geology, Resource Strategy & Policy, Data Standards and FOSS.
+bio: British-Australian Geologist, Standards Lead and FOSS advocate @BritGeoSurvey & a fan of @UKScouting
 
 interests:
-- Geology
-- Resource Strategy & Policy
+- Public Geoscience
 - Data Standards
+- Digital Strategy & Transformation
+- Free & Open Source Software
+- Resource Strategy & Policy
+- Exploration Geology
 - Geosemantics
 
 education:
@@ -77,6 +80,3 @@ user_groups:
 - Visitors
 ---
 
-Hi! I’m Edd Lewis and I love Geology, Resource Strategy & Policy, Data Standards and FOSS!
-
-I'm a senior geologist with ten years’ international, multi-commodity exploration experience from grassroots to a pre-feasibility level working in the oil & gas, coal & minerals industries. His experience ranges from small cap junior exploration companies, government surveys, major mining companies and international consultancies. Work has included product management, software design and development management, interpretation and integration of geospatial data using GIS, 3D modelling and statistical packages, planning and implementation of exploration and resource drilling programs, drilling supervision, geosteering, supervision of 2D & 3D seismic acquisition, due diligence studies, geological mapping, sampling QA/QC; due diligence studies, target generation including regional prospectivity, program design and implementation for grassroots exploration. Petroleum work includes Haynesville Shale and Eagle Ford Shale in the US, Anadarko, Amadeus, McArthur, Otway, Galilee, Drummond, Bowen and Pre-Caspian Basins in Australia. Metalliferous work includes numerous deposit types for Copper, Gold, Iron and Uranium in Mongolia, Kazakhstan, Greenland, Indonesia, Ethiopia, Saudi Arabia, Namibia, Jordan, Chile and Australia. 
