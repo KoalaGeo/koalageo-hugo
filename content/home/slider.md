@@ -16,8 +16,8 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Welcome"
-  content = ""
+  title = "Edd Lewis"
+  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey. Also a fan of @UKScouting"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,8 +35,8 @@ height = "calc(100vh - 70px)"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = ""
-  content = ""
+  title = "Edd Lewis"
+  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey. Also a fan of @UKScouting"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -54,8 +54,8 @@ height = "calc(100vh - 70px)"
   # cta_icon = "graduation-cap"
 
  [[item]]
-  title = ""
-  content = ""
+  title = "Edd Lewis"
+  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey. Also a fan of @UKScouting"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -73,8 +73,8 @@ height = "calc(100vh - 70px)"
   # cta_icon = "graduation-cap"
 
  [[item]]
-  title = ""
-  content = ""
+  title = "Edd Lewis"
+  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey. Also a fan of @UKScouting"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
