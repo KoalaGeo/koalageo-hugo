@@ -39,15 +39,22 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Summary Experience
-===================
 
 I'm a senior geologist with ten years’ international, multi-commodity exploration experience from grassroots to a pre-feasibility level working in the oil & gas, coal & minerals industries. His experience ranges from small cap junior exploration companies, government surveys, major mining companies and international consultancies. Work has included product management, software design and development management, interpretation and integration of geospatial data using GIS, 3D modelling and statistical packages, planning and implementation of exploration and resource drilling programs, drilling supervision, geosteering, supervision of 2D & 3D seismic acquisition, due diligence studies, geological mapping, sampling QA/QC; due diligence studies, target generation including regional prospectivity, program design and implementation for grassroots exploration. Petroleum work includes Haynesville Shale and Eagle Ford Shale in the US, Anadarko, Amadeus, McArthur, Otway, Galilee, Drummond, Bowen and Pre-Caspian Basins in Australia. Metalliferous work includes numerous deposit types for Copper, Gold, Iron and Uranium in Mongolia, Kazakhstan, Greenland, Indonesia, Ethiopia, Saudi Arabia, Namibia, Jordan, Chile and Australia. 
 
 {{% toc %}} 
 
-Key Experience: Exploration
-===========================
+Digital
+--------
+
+- Setup GeoNetwork Metadata catalogue at Kenya Geodata Centre
+- Setup GeoNetwork Metadata catalogue at Nigeria Geodata Centre
+- Setup GeoNetwork Metadata catalogue at Rwanda Geodata Centre
+- GeoERA WP8 project support - using standards, setting up web services
+- Documentation using sphinx and docsify, on both Gitlab and Github pages
+
+Mineral Exploration
+------------------------------
 
 -   Confidential Client, Greenland, June 2014: Assistance with submission of tenement application.   
 
@@ -85,8 +92,8 @@ Key Experience: Exploration
 
 -   Ivanhoe Mines Mongolia Inc, Baruun Tal and Saidsaid projects, [Ömnögovi](http://en.wikipedia.org/wiki/%C3%96mn%C3%B6govi_Province), Mongolia, June - September 2007:  Cu-Au porphyry exploration, South Gobi, Mongolia:  Mapping, sampling and trenching of various targets
 
-Key Experience:  Geological Mapping/Structural Geology
-======================================================
+Geological Mapping/Structural Geology
+----------------------------------------
 
 -   Urafields Ltd, Rössing East Uranium Project, Namibia, October 2011: Mapping of alaskites and pegmaticic intusives within the Damara Orogen sediments.   
 
@@ -102,8 +109,8 @@ Key Experience:  Geological Mapping/Structural Geology
 
 -   Ivanhoe Mines Mongolia Inc, Baruun Tal and Saidsaid (Cu-Au porphyry projects), [Ömnögovi](http://en.wikipedia.org/wiki/%C3%96mn%C3%B6govi_Province), Mongolia, June - September 2007:  Carboniferous-Devonian Volcaniclasitics & Mesozoic intrusives Southern Mongolia
 
-Key Experience:  Geological Modelling / Resource Estimation
-===========================================================
+Geological Modelling / Resource Estimation
+--------------------------------------------
 
 -   PT Antam, West Kalimantan Bauxite Tenements, Indonesia, October 2013 -- April 2014: Validation of existing database, geological modelling, resource estimation and JORC report.
 
@@ -155,7 +162,7 @@ Key Experience:  Petroleum
 
 -   Geoscience Australia, March 2014: Hydrocarbon prospectivity of the Drummond Basin
 
-Geosteering;
+Geosteering
 ------------
 
 Remote geosteering of horizontal wells in Texas, Louisiana and Oklahoma. 
