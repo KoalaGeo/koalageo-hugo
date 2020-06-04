@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Camellia"
+title: "CAMELLIA"
 summary: "Community Water Management for a Liveable London (CAMELLIA)"
 authors: []
 tags: []
@@ -22,7 +22,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: CamelliaWater
+ - name: @CamelliaWater
    url: https://twitter.com
    icon_pack: fab
    icon: twitter

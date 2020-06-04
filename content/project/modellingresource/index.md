@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Modellingresource"
+title: "3D Modelling/Resource Estimation"
 summary: ""
 authors: []
 tags: []
@@ -39,9 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Geological Modelling / Resource Estimation
---------------------------------------------
 
 -   PT Antam, West Kalimantan Bauxite Tenements, Indonesia, October 2013 -- April 2014: Validation of existing database, geological modelling, resource estimation and JORC report.
 
