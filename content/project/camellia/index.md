@@ -22,8 +22,8 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: @CamelliaWater
-   url: https://twitter.com
+ - name: CamelliaWater
+   url: https://twitter.com/CamelliaWater
    icon_pack: fab
    icon: twitter
 
