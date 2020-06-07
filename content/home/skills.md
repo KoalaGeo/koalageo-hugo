@@ -43,17 +43,35 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data Standards"
   description = "Experienced"
-  
+
+[[feature]]
+  icon = "osi"
+  icon_pack = "fas"
+  name = "Open Source Inititive"
+  description = "Experienced"
+
 [[feature]]
   icon = "gem"
   icon_pack = "fas"
-  name = "Mineral Exploration"
+  name = "Mining & Mineral Exploration"
   description = "Experienced"
   
 [[feature]]
   icon = "globe-asia"
   icon_pack = "fas"
   name = "GIS"
+  description = "Experienced"
+
+[[feature]]
+  icon = "globe-europe"
+  icon_pack = "fas"
+  name = "QGIS/ESRI"
+  description = "Experienced"
+
+[[feature]]
+  icon = "folder-open"
+  icon_pack = "fas"
+  name = "Data Management"
   description = "Experienced"
 
 # Uncomment to use emoji icons.
