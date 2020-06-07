@@ -38,6 +38,6 @@ As I'm sure many other have been doing, I've been having a bit of a clear out wi
 
 Mostly it's been old USB cables but I was quite pleased to discover a new starter interview I did at Rio Tinto for the internal mag which I'd completely forgotton about!
 
-![Rio Tinto Interview](OG1.jpg "Rio Tinto New Starter interview")
+![Rio Tinto Interview](https://raw.githubusercontent.com/KoalaGeo/koalageo.github.io/master/img/OG1.jpg "Rio Tinto New Starter interview")
 
 Must say I feel differently about some things with some age & experience behind me :-) 

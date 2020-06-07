@@ -35,9 +35,9 @@ height = "calc(100vh - 70px)"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Edd Lewis"
-  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey. Also a fan of @UKScouting"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  title = ""
+  content = ""
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -54,9 +54,9 @@ height = "calc(100vh - 70px)"
   # cta_icon = "graduation-cap"
 
  [[item]]
-  title = "Edd Lewis"
-  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey. Also a fan of @UKScouting"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  title = ""
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -73,9 +73,9 @@ height = "calc(100vh - 70px)"
   # cta_icon = "graduation-cap"
 
  [[item]]
-  title = "Edd Lewis"
-  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey. Also a fan of @UKScouting"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  title = ""
+  content = ""
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
