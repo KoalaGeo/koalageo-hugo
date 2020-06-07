@@ -27,12 +27,6 @@ subtitle = ""
   description = "Skilled"
   
 [[feature]]
-  icon = "raspberry-pi"
-  icon_pack = "fab"
-  name = "Pi"
-  description = "Beginner"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
@@ -46,7 +40,7 @@ subtitle = ""
 
 [[feature]]
   icon = "osi"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Open Source Inititive"
   description = "Experienced"
 
