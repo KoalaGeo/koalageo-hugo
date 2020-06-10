@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: Post-Graduate Certificate in Geostatistics
-    institution: ECU
+    institution: Edith Cowan University
     year: 2015
   - course: MGeol in Applied Geology
     institution: University of Leicester
