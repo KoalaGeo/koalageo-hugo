@@ -70,10 +70,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Consulting projects covering:
-      * Corporate Due Diligence
-      * Resource Estimation
-      * Mineral, Coal & Hydrocarbon Exploration.
+  * Consulting projects covering: Corporate Due Diligence, Resource Estimation, Mineral, Coal & Hydrocarbon Exploration.
   * Marketing programs
   """
 
@@ -87,9 +84,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Resource evaluation drilling at:
-      * Hope Downs 4
-      * West Angelas
+  * Resource evaluation drilling at Hope Downs 4 & West Angelas
   """
 
 [[experience]]
@@ -142,7 +137,7 @@ date_format = "Jan 2006"
   date_start = "2010-01-01"
   date_end = "2010-06-01"
   description = """
-    Responsibilities include:
+  Responsibilities include:
   
   * Gold and base metal grassroots exploration in Arabian-Nubian shield of Saudi Arabia.
   """
