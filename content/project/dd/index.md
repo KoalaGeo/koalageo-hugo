@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Due Diligence"
+title: "Due Diligence Projects 2008 - 2016"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-06-04T23:45:43+01:00
+date: 2016-06-04T23:45:43+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

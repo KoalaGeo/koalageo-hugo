@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Experience"
+title: "2018 Summary Experience"
 summary: "Summary of industry experience"
 authors: []
 tags: []
 categories: []
-date: 2020-06-02T23:22:47+01:00
+date: 2018-06-02T23:22:47+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

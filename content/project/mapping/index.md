@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mapping"
+title: "Geological Mapping Projects 2008 - 2016"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-06-04T23:31:38+01:00
+date: 2016-06-04T23:31:38+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

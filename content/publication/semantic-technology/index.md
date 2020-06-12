@@ -24,7 +24,7 @@ abstract: "Baseline geodata, geology, geochemistry and geophysics,are essential 
 # Summary. An optional shortened abstract.
 summary: "Baseline geodata, geology, geochemistry and geophysics,are essential in mineral exploration. Regional-scalegeodata acquisition, airborne geophysical surveying, orlithogeochemical sampling, is an expensive and time-consuming process. Geodata will continue to grow inimportance in the future as exploratists on managersand geologists will increasingly have to look in areaswhere deposits are concealed. However, while the collection of this geodata is important, even more important is to understand and extract maximum value from this data."
 
-tags: ["senatic technology"]
+tags: ["Semantic Technology"]
 categories: []
 featured: false
 

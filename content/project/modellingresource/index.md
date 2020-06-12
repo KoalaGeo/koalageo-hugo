@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "3D Modelling/Resource Estimation"
+title: "3D Modelling/Resource Estimation Projects 2008 - 2016"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-06-04T23:31:18+01:00
+date: 2016-06-04T23:31:18+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+-   Genmin Pty Ltd, Baniaka Iron Ore Tenements, Gabon, 2015: Modelling to guide & validte exploration drilling program.
 
 -   PT Antam, West Kalimantan Bauxite Tenements, Indonesia, October 2013 -- April 2014: Validation of existing database, geological modelling, resource estimation and JORC report.
 

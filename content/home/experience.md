@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = "2018-10-30"
   description = """
-  Key responsibilities:
+  Responsibilities include:
   
   * Technical Product Management of the Xplore product.
   * Prospectivity analysis of areas in South Africa, Iran, Ireland, Western Australia and the UK. 
@@ -55,7 +55,10 @@ date_format = "Jan 2006"
   location = "Dublin, Ireland"
   date_start = "2016-03-01"
   date_end = "2016-10-01"
-  description = """Co. Cork and Lough Allen Basin 3D geological modelling integrating surface geology, seismic and well data using GoCAD. """
+  description = """
+  Responsibilities include:
+
+  * Co. Cork and Lough Allen Basin 3D geological modelling integrating surface geology, seismic and well data using GoCAD. """
 
 [[experience]]
   title = "Consultant (Geology)"
@@ -64,7 +67,15 @@ date_format = "Jan 2006"
   location = "Brisbane, Australia"
   date_start = "2012-10-01"
   date_end = "2016-03-01"
-  description = """DD, resource estimation, petroleum exploration, mineral exploration, coal exploration"""
+  description = """
+  Responsibilities include:
+  
+  * Consulting projects covering:
+      * Corporate Due Diligence
+      * Resource Estimation
+      * Mineral, Coal & Hydrocarbon Exploration.
+  * Marketing programs
+  """
 
 [[experience]]
   title = "Project Geologist"
@@ -74,10 +85,11 @@ date_format = "Jan 2006"
   date_start = "2012-06-01"
   date_end = "2012-10-30"
   description = """
-  Resource evaluation drilling:
-  
-  * Hope Downs 4
-  * West Angelas
+  Responsibilities include:
+
+  * Resource evaluation drilling at:
+      * Hope Downs 4
+      * West Angelas
   """
 
 [[experience]]
@@ -117,7 +129,10 @@ date_format = "Jan 2006"
   location = "Houston, TX"
   date_start = "2010-06-02"
   date_end = "2011-02-01"
-  description = """Remote supervision and steering of horizontal gas and oil well drilling in the USA."""
+  description = """
+  Responsibilities include:
+  
+  * Remote supervision and steering of horizontal gas and oil well drilling in the USA."""
 
 [[experience]]
   title = "Exploration Geologist"
@@ -126,7 +141,11 @@ date_format = "Jan 2006"
   location = "Jeddah, Saudi Arabia"
   date_start = "2010-01-01"
   date_end = "2010-06-01"
-  description = """Gold and base metal grassroots exploration in Arabian-Nubian shield of Saudi Arabia."""
+  description = """
+    Responsibilities include:
+  
+  * Gold and base metal grassroots exploration in Arabian-Nubian shield of Saudi Arabia.
+  """
 
 [[experience]]
   title = "Exploration Geologist"
@@ -135,7 +154,11 @@ date_format = "Jan 2006"
   location = "Addis Ababa, Ethiopia"
   date_start = "2009-08-01"
   date_end = "2009-12-30"
-  description = """Gold and base metal grassroots exploration in Arabian-Nubian shield of Ethiopia."""
+  description = """
+  Responsibilities include:
+  
+  * Gold and base metal grassroots exploration in Arabian-Nubian shield of Ethiopia.
+  """
 
 [[experience]]
   title = "Graduate Geologist"

@@ -15,27 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Docker"
-  description = "Skilled"
-
-[[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = "Skilled"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "Experienced"  
-  
-[[feature]]
   icon = "file-code"
   icon_pack = "fas"
   name = "Data Standards"
+  description = "Experienced"
+
+[[feature]]
+  icon = "gem"
+  icon_pack = "fas"
+  name = "Mining & Mineral Exploration"
   description = "Experienced"
 
 [[feature]]
@@ -45,16 +33,10 @@ subtitle = ""
   description = "Experienced"
 
 [[feature]]
-  icon = "gem"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Mining & Mineral Exploration"
-  description = "Experienced"
-  
-[[feature]]
-  icon = "globe-asia"
-  icon_pack = "fas"
-  name = "GIS"
-  description = "Experienced"
+  name = "Statistics"
+  description = "Experienced"  
 
 [[feature]]
   icon = "globe-europe"
