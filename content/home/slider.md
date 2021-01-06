@@ -17,7 +17,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Edd Lewis"
-  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey. Also a fan of @UKScouting"
+  content = "KoalaGeo: British-Australian, Father, Geologist, Standards Lead and FOSS advocate @BritGeoSurvey & @OrdnanceSurvey. Also a fan of @UKScouting"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
