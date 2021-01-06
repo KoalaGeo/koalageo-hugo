@@ -21,10 +21,10 @@ subtitle = ""
   description = "Experienced"
 
 [[feature]]
-  icon = "gem"
+  icon = "folder-open"
   icon_pack = "fas"
-  name = "Mining & Mineral Exploration"
-  description = "Experienced"
+  name = "Data Management"
+  description = "Experienced"  
 
 [[feature]]
   icon = "osi"
@@ -36,19 +36,21 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "Experienced"  
+  description = "Experienced" 
+
+[[feature]]
+  icon = "gem"
+  icon_pack = "fas"
+  name = "Mining & Mineral Exploration"
+  description = "Experienced"
 
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
-  name = "QGIS/ESRI"
+  name = "GIS (QGIS/ESRI)"
   description = "Experienced"
 
-[[feature]]
-  icon = "folder-open"
-  icon_pack = "fas"
-  name = "Data Management"
-  description = "Experienced"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

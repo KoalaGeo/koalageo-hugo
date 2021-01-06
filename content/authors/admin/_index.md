@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Geologist (Standards Lead)
+role: Standards Lead
 
 # Organizations/Affiliations
 organizations:
@@ -18,16 +18,17 @@ organizations:
   url: "www.bgs.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: British-Australian Geologist, Standards Lead and FOSS advocate @BritGeoSurvey & a fan of @UKScouting
+bio: British-Australian Standards Lead and FOSS advocate @BritGeoSurvey, Geologist & a fan of @UKScouting
 
 interests:
-- Public Geoscience
 - Data Standards
 - Digital Strategy & Transformation
 - Free & Open Source Software
-- Resource Strategy & Policy
+- (Geo)semantics
+- Public/Precompetitive Data
+- Natural Resource Strategy & Policy
 - Exploration Geology
-- Geosemantics
+
 
 education:
   courses:
@@ -75,13 +76,13 @@ email: "eddlewis85@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Edd Lewis is the Standards Lead at the British Geological Survey, with responsibity of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessability...). 
+Edd Lewis is the Standards Lead at the British Geological Survey, currently on secondment to Ordnance Survey, with responsibility of improving the organisation and our partners data provision by using geospatial data standards to better align with FAIR data principles (& hopefully driving economic growth through improved data accessability...). 
 
 He is a member of the British Standard Insitute IST/36 Geographic Information committee, Association of Geotechnical and Geoenvironmental Specialists (AGS) AGS Data Format committee and contributor to ISO/TC 211 & OGC standards. 
 
-Edd is married with one child, and when not at work can be found, Scouting, canoing the waterways or at the archery range.  
+Edd is married with one child, and when not at work can be found, Scouting, canoeing the waterways or at the archery range.  
